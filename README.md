@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A passionate Web developer And Problem Solver from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="centre" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash0228&label=Profile%20views&color=0e75b6&style=flat" alt="akash0228" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash0228" alt="akash0228" /></a> </p>
 
-- 🌱 I’m currently learning **low level designs**
+-💼 Software Engineer 
 
-- 🤝 I’m looking for **Software Developer Roles**
+-📱 Android Developer working with Jetpack Compose, ExoPlayer, MVVM, HbbTV, and TIAF
 
-- 📫 How to reach me **akashkumar.bhurang@gmail.com**
+-🚀 Exploring Low-Level System Design
+
+-🏆 700+ LeetCode problems solved | Peak Codeforces Rating: 1800+
+
+-🎯 Actively improving DSA & problem-solving skills
+
+-📫 Reach me at akashkumar.bhurang@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NqG6A2zvP9uIi3_erKUyM0zsKfMDzDKE/view](https://drive.google.com/file/d/1NqG6A2zvP9uIi3_erKUyM0zsKfMDzDKE/view)
 
