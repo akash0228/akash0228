@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash0228" alt="akash0228" /></a> </p>
 
--💼 Software Engineer 
-
 -📱 Android Developer working with Jetpack Compose, ExoPlayer, MVVM, HbbTV, and TIAF
 
 -🚀 Exploring Low-Level System Design
